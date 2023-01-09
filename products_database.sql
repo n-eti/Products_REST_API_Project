@@ -1,1 +1,1 @@
-CREATE DATABASE products_database
+SELECT * FROM products_database.products_product;
